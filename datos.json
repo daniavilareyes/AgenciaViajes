@@ -1,0 +1,8 @@
+
+[{"img":"./img/iguazu.jpg", "lugar": "Cataratas de Iguazu", "descripcion": "Visita una de las siete Maravillas naturales del mundo", "precio": "a consultar", "id": 1},
+{"img":"./img/mendoza.jpg", "lugar": "Mendoza", "descripcion": "Aventurate a conocer la cuna de uno de los mejores vinos del mundo", "precio": "a consultar", "id": 2},
+{"img":"./img/playa.jpg", "lugar": "Rio de Janeiro", "descripcion": "Conocé un paraiso viajando a rio", "precio": "a consultar", "id": 3},
+{"img":"./img/bariloche.jpg", "lugar": "Bariloche", "descripcion": "Viaja a uno de los lugares mas mágicos de Argentina", "precio": "a consultar", "id": 4},
+{"img":"./img/calafate.jpg", "lugar": "Calafate", "descripcion": "Un paisaje como ningún otro te espera en el calafate", "precio": "a consultar", "id": 5},
+{"img":"./img/jujuy.jpg", "lugar": "Jujuy", "descripcion": "Casi como un viaje a otro planeta pero al norte de Argentina", "precio": "a consultar", "id": 6}
+]
